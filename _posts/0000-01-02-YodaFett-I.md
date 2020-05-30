@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 
 My text
-**Change** is necessary for _advancement_!
+**Change** is necessary for *advancement*! If you're stuck [Go to google!](htto://google.com)
